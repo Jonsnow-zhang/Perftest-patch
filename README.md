@@ -1,2 +1,4 @@
 # Perftest-patch
 Perftest patch
+
+Purpose: This directory has patches or source code changes required to the perftest packaget in the host or x86 machine to support Microblaze and IPv6
